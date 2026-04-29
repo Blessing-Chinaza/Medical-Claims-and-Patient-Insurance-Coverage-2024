@@ -124,11 +124,14 @@ The dataset came pre-cleaned, which allowed me to focus on structuring and prepa
 # The Dashboard Story
 
 
-1. ## General Dashboard
+
+ ## 1. General Dashboard
+
 
 
 
 [!General Dashboard](image/general_claim_dashboard.png)
+
 
 
 
@@ -154,15 +157,19 @@ Finally, the **Insurance Type comparison** told a surprising story of parity. Bo
 
 
 
-2. # Friday, May 10, 2024 Dashboard
+
+## 2. Friday, May 10, 2024 Dashboard
+
    
 
 
  [!Friday, May 10, 2024](image/friday_may_10_dashboard.png)
 
+
  
 
  ## Key Finding
+
 
  
 On **Friday, May 10, 2024,** the dashboard revealed a very different picture compared to the general trends. This single day of service carried its own story.
@@ -181,15 +188,19 @@ The **Provider Distribution** added another twist: outcomes of *“Partially Pai
 
 
 
-3. ## Sunday, Outcome "Denied" Dashboard
+
+## 3. Sunday, Outcome "Denied" Dashboard
+
 
    
 
  [!Sunday, Denied Outcome](image/sunday_denied_dashboard.png)
 
 
+
  
 ## Key Finding
+
 
 
 When the dashboard was filtered to **Sunday** and the outcome set to **Denied,** a very distinct pattern emerged.
@@ -208,11 +219,15 @@ Finally, the **Provider Distribution** tied the story together. Under the denied
 
 
 
-4. ## June, Claim Status “Paid” Dashboard
+
+
+## 4. June, Claim Status “Paid” Dashboard
+
 
 
 
 [!June, Claim Status Paid](image/june_paid_dashboard.png)
+
 
 
 
@@ -239,11 +254,14 @@ Finally, under **Total Allowed Amount by Claim Status “Paid”,** **Commercial
 
 
 
-5. ## Outcome “Partially Paid” & Claim Status “Under Review” Dashboard
+
+## 5. Outcome “Partially Paid” & Claim Status “Under Review” Dashboard
+
 
 
 
 [!Partially Paid, Under Review](image/partially_paid_under_review_dashboard.png)
+
 
 
 
@@ -272,14 +290,14 @@ The **Insurance Type analysis** added financial depth. **Commercial** and **Medi
 # Behavioral Patterns Across Dashboards
 
 
-1. ## Documentation and Administrative Barriers Dominate
+ ## 1. Documentation and Administrative Barriers Dominate
 
 - Across multiple dashboards, issues like *“Authorization not obtained”* and *“Missing documentation”* consistently appear as top reasons for claim problems.
 
 - Even when claims are ultimately marked as *Paid*, documentation gaps remain a recurring theme. This shows that administrative processes, not medical necessity, are often the biggest hurdle in claim resolution.
 
 
-2. ## Insurance Type Contradictions
+## 2. Insurance Type Contradictions
 
 - **Commercial insurance** frequently appears at both extremes: it records the highest totals in denied outcomes (Sunday filter) and also ranks high in allowed amounts under review.
 
@@ -288,7 +306,8 @@ The **Insurance Type analysis** added financial depth. **Commercial** and **Medi
 - **Self-Pay** consistently emerges as financially dominant in certain contexts (June Paid), highlighting the burden patients carry when coverage is absent.
 
 
-3. ## Provider Distribution Nuances
+
+## 3. Provider Distribution Nuances
 
 - Providers often face outcomes where *“Partially Paid”* dominates AR Status, even under *“Paid”* claim status.
 
@@ -297,7 +316,7 @@ The **Insurance Type analysis** added financial depth. **Commercial** and **Medi
 - This pattern suggests providers are caught between partial reimbursements and outright denials, with few clean *“paid”* outcomes.
 
 
-4. # Seasonal and Date-Specific Variations
+ ## 4. Seasonal and Date-Specific Variations
 
 - **June** stands out with the highest provider activity, while **September** shows the least.
 
@@ -306,7 +325,8 @@ The **Insurance Type analysis** added financial depth. **Commercial** and **Medi
 - Sundays show denial-heavy behavior, with Commercial insurance leading in denied claims, suggesting possible operational or policy-driven cycles tied to days of the week.
 
 
-5. # Reason Codes as Root Causes
+
+## 5. Reason Codes as Root Causes
 
 - *Pre-existing condition* and *Incorrect billing information* repeatedly surface as critical drivers of denied claims and follow-ups.
 
@@ -369,7 +389,7 @@ This **behavioral analysis** transforms the dashboards from **static visuals** i
 
 # Contact
 
-## For inquiries, collaborations, or feedback regarding this project:
+**For inquiries, collaborations, or feedback regarding this project:**
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/blessing-nwokike/)
 
