@@ -80,7 +80,7 @@ The dataset came pre-cleaned, which allowed me to focus on structuring and prepa
 ## Clean dataset
 
 
-[!Claim Clean Dataset](image/claim_clean_dataset.png)
+![Claim Clean Dataset](image/claim_clean_dataset.png)
 
 
 
@@ -96,13 +96,13 @@ The dataset came pre-cleaned, which allowed me to focus on structuring and prepa
 ## Month
 
 
-[!Month Created](image/month_created.png)
+![Month Created](image/month_created.png)
 
 
 ## Day
 
 
-[!Day Created](image/day_created.png)
+![Day Created](image/day_created.png)
 
 
 
@@ -130,7 +130,7 @@ The dataset came pre-cleaned, which allowed me to focus on structuring and prepa
 
 
 
-[!General Dashboard](image/general_claim_dashboard.png)
+![General Dashboard](image/general_claim_dashboard.png)
 
 
 
@@ -163,7 +163,7 @@ Finally, the **Insurance Type comparison** told a surprising story of parity. Bo
    
 
 
- [!Friday, May 10, 2024](image/friday_may_10_dashboard.png)
+ ![Friday, May 10, 2024](image/friday_may_10_dashboard.png)
 
 
  
@@ -194,7 +194,7 @@ The **Provider Distribution** added another twist: outcomes of *“Partially Pai
 
    
 
- [!Sunday, Denied Outcome](image/sunday_denied_dashboard.png)
+ ![Sunday, Denied Outcome](image/sunday_denied_dashboard.png)
 
 
 
@@ -226,7 +226,7 @@ Finally, the **Provider Distribution** tied the story together. Under the denied
 
 
 
-[!June, Claim Status Paid](image/june_paid_dashboard.png)
+![June, Claim Status Paid](image/june_paid_dashboard.png)
 
 
 
@@ -260,7 +260,7 @@ Finally, under **Total Allowed Amount by Claim Status “Paid”,** **Commercial
 
 
 
-[!Partially Paid, Under Review](image/partially_paid_under_review_dashboard.png)
+![Partially Paid, Under Review](image/partially_paid_under_review_dashboard.png)
 
 
 
